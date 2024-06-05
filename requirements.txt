@@ -1,0 +1,6 @@
+torch
+transformers
+chainlit
+langchain
+huggingface-hub
+pypdf
