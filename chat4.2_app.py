@@ -27,7 +27,7 @@ from langchain.prompts.chat import (
 
 
 # Configuración del token de Hugging Face e inicio de sesión
-HUGGINGFACE_API_TOKEN = "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"
+HUGGINGFACE_API_TOKEN = "Api_Token"
 login(token=HUGGINGFACE_API_TOKEN) 
 
 
